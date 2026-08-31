@@ -48,7 +48,7 @@ A PowerShell script that displays real-time **CPU** and **RAM** metrics for a **
 ## ▶️ Usage
 
 ```powershell
-.\Monitor-MerakiMXMetrics.ps1 -Serial "Q2YN-W3AD-VSTA" -OrgId "1278208"
+.\Monitor-MerakiMXMetrics.ps1 -Serial "QZYN-W8AD-VXTA" -OrgId "18789208"
 ```
 
 ### Parameters
@@ -62,7 +62,7 @@ A PowerShell script that displays real-time **CPU** and **RAM** metrics for a **
 ### Example with a longer history
 
 ```powershell
-.\Monitor-MerakiMXMetrics.ps1 -Serial "Q2YN-W3AD-VSTA" -OrgId "1278208" -HistorySize 120
+.\Monitor-MerakiMXMetrics.ps1 -Serial "QZYN-W8AD-VXTA" -OrgId "18789208" -HistorySize 120
 ```
 
 Stop monitoring at any time with **Ctrl+C**.
