@@ -5,7 +5,7 @@
     Fetches CPU performance score and RAM usage every minute, displays a live dashboard,
     and logs data to CSV for historical tracking.
 .EXAMPLE
-    .\Monitor-MerakiMXMetrics.ps1 -Serial "Q2YN-W3AD-VSTA" -OrgId "1278208"
+    .\Monitor-MerakiMXMetrics.ps1 -Serial "Q2XM-W8AD-BTSC" -OrgId "18789208"
 #>
 
 param (
